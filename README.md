@@ -1,4 +1,7 @@
 # Graphs
+
+[Notes](https://autumn-pike-23d.notion.site/Graphs-7653a37d5d364c9abca7f38354c55289)
+
 A graph is an Abstract Data Type that models relationships using nodes and edges. 
 
 In Python, a graph is data structure that consists of a set of nodes or vertices, and a set of edges that connect them. Graphs are often used to represent relationships between objects, such as in social networks, transportation systems, or computer networks.
